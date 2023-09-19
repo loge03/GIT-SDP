@@ -1,2 +1,4 @@
 good morning to all
 this is my git commands class
+today's session i have completed push and pull commands,commit, status.
+thank you 
